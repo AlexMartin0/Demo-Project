@@ -14,7 +14,7 @@ dummy = pd.read_excel('excel_files/dummy_token.xlsx')
 
 # 기본 레이아웃 설정
 st.set_page_config(layout='centered')
-st.header('오늘의 맛집')
+st.header('맛집의 ')
 
 # main 기능 컴포넌트 정의
 main_col1, main_col2 = st.columns(2)
